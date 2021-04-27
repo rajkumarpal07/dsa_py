@@ -38,18 +38,3 @@ if __name__ == '__main__':
     print(myq.removefromQ())
     print(myq.removefromQ())
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
