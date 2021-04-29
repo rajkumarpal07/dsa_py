@@ -73,4 +73,3 @@ if __name__ =='__main__':
 
     print(root.findval(7))
     print(root.findval(14))
-    
